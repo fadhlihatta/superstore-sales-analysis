@@ -38,7 +38,7 @@ The project uses a **star schema design** to ensure scalability and analytical e
 
 ### Page 1 – Executive Overview
 
-![Overview](images/page1_overview.png)
+(images/page1_overview.png)
 
 ### Page 2 – Customer Analysis
 
