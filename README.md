@@ -34,6 +34,19 @@ The project uses a **star schema design** to ensure scalability and analytical e
 
 ---
 
+## 📎 SQL & DAX Highlights
+
+**SQL**
+- Removed duplicates using ROW_NUMBER()
+- Built star schema (fact & dimension tables)
+
+**DAX**
+- Profit Margin calculation
+- Average Order Value (AOV)
+- Customer contribution analysis
+
+---
+
 ## 📊 Dashboard Preview
 
 ### Page 1 – Executive Overview
@@ -69,7 +82,6 @@ The project uses a **star schema design** to ensure scalability and analytical e
 * `/sql` → data preparation, cleaning, and transformation scripts
 * `/powerbi` → dashboard file (.pbix)
 * `/images` → dashboard previews
-* `/docs` → detailed documentation
 
 ---
 
